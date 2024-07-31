@@ -43,5 +43,6 @@ To get started with the project, follow these steps:
 ---
 
 📬 If you have any questions or feedback, feel free to contact me at sushantkrsky@gmail.com
-    Visit Website For More Details - https://sushantkrsky.github.io
+
 ---
+Visit Website For More Details - https://sushantkrsky.github.io

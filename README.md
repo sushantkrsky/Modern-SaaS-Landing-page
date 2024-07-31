@@ -4,7 +4,7 @@ This is a modern SaaS landing page built using Tailwind CSS, TypeScript, Next.js
 
 ## 🌐 Demo
 
-Check out the live demo of the project [here](https://landing-page-rho-hazel.vercel.app/).
+Check out the live demo of the project [here](https://modern-saas-landing-page.vercel.app//).
 
 ## ✨ Features
 
@@ -21,8 +21,7 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/tanishkadeep/landing-page.git
-   cd modern-saas-landing-page
+   git clone https://github.com/sushantkrsky/Modern-SaaS-Landing-page.git
    ```
 
 2. **Install dependencies:**

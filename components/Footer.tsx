@@ -18,8 +18,8 @@ const Footer = () => {
         <div>
           This website is developed by{" "}
           <div className="font-semibold text-white hover:underline text-lg">
-            <a href="https://github.com/tanishkadeep">
-              Tanishka Deep <MdOutlineArrowOutward className="inline" />
+            <a href="https://github.com/sushantkrsky">
+              Sushant Kumar <MdOutlineArrowOutward className="inline" />
             </a>
           </div>
         </div>
